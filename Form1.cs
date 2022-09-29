@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using System.IO;
-using Microsoft.Office.Interop.Word;//<- this is what I am talking about
+using Microsoft.Office.Interop.Word;
 using System.Reflection;
 using Microsoft.Office.Core;
 
