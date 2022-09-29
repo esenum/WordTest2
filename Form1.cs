@@ -79,7 +79,7 @@ namespace WordTest2
                 object format = false;
                 object matchKashida = false;
                 object matchDiacritics = false;
-                object matchAlefHamza = false;
+                object matchUmut = false;
                 object matchControl = false;
                 object read_only = false;
                 object visible = true;
@@ -90,7 +90,7 @@ namespace WordTest2
                 ref matchAllWordForms, ref forward, ref wrap, ref format,
                 ref replaceText, ref replace, ref matchKashida,
                         ref matchDiacritics,
-                ref matchAlefHamza, ref matchControl);
+                ref matchUmut, ref matchControl);
         }
     }
     
