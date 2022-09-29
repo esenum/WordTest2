@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\WordTest2\bin\Debug\WordTest2.exe.config
+C:\Users\HP\Desktop\WordTest2\bin\Debug\WordTest2.exe
+C:\Users\HP\Desktop\WordTest2\bin\Debug\WordTest2.pdb
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\WordTest2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HP\Desktop\WordTest2\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\HP\Desktop\WordTest2\obj\Debug\Interop.VBIDE.dll
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.Form1.resources
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.Properties.Resources.resources
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.exe
+C:\Users\HP\Desktop\WordTest2\obj\Debug\WordTest2.pdb
